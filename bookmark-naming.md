@@ -5,7 +5,7 @@ The format for wormhole bookmarks is as follows:
 
 * @ - for bookmarks leading away from #Home
 *  # - for bookmarks leading towards #Home
-* class - C1/2/3/4/5, NS, or HS as appropriate
+* class - C1/2/3/4/5/6, NS, LS, or HS as appropriate
 * name - The name of the system the hole leads to
 * sig - The letter code of the signature for this hole
 
