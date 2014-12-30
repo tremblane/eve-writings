@@ -19,6 +19,8 @@ tl;dr
 #Wormhole Signatures (found wormhole, wat do?)
 If you scan down a wormhole, always bookmark the location and update siggy with as much information about hole as you can, even if you don't jump through to see where it connects to. DO NOT BOOKMARK THE SIGNATURE IN THE PROBE SCANNER WINDOW. Always warp to the hole (at range is fine if you aren't going to jump) and bookmark it by right clicking the hole and saving the location. While you're at the hole, right click it and show information to see the type, age, stability, and size. Edit the signature in siggy and use the dropdown to select the type. Pro-tip: The non-K162 types will tell you exactly the class of system it connects to. If the hole is EOL you must update the connection if you jump, or make a note of it in the comment if you don't jump (e.g. "C5 ? EOL"). After jumping the hole AND BOOKMARKING YOUR WAY BACK HOME edit the connection in the chain map with any details such as EOL, frigate sized, or reduced/crit. Also, update the signature comment with the class and name (e.g. "C5 Fubar").
 
+A note about the new C13 systems: Siggy appears to not have been fully updated with all the details about these systems. Even if you've got the signature name (e.g. type of gas site) in the scanner window and paste it in, siggy may not update with the name. Also, the wormhole types for C13 connections don't appear in the pulldown list.
+
 tl;dr
 
 * Bookmark the hole, not the signature in the Probe Scanner window
