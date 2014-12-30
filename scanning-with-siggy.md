@@ -22,8 +22,6 @@ tl;dr
 * When you're done, the signature should have the type of hole (K162, E004, etc.) selected in the dropdown and the name in the comments
 * Update the connection in the chain map with any extra details (EOL, reduced, frigate-sized, etc.)
 
-﻿
-
 #How to be bad
 Here are some ways I have seen people be bad at using siggy. Don't do these things.
 
