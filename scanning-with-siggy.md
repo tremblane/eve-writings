@@ -13,7 +13,7 @@ tl;dr
  6. Watch updates appear in signature list (or not, they'll show up anyway)
  7. Goto step 1
 
-#Wormhole Signatures (Found wormhole, wat do?)
+#Wormhole Signatures (found wormhole, wat do?)
 If you scan down a wormhole, always bookmark the location and update siggy with as much information about hole as you can, even if you don't jump through to see where it connects to. DO NOT BOOKMARK THE SIGNATURE IN THE PROBE SCANNER WINDOW. Always warp to the hole (at range is fine if you aren't going to jump) and bookmark it by right clicking the hole and saving the location. While you're at the hole, right click it and show information to see the type, age, stability, and size. Edit the signature in siggy and use the dropdown to select the type. Pro-tip: The non-K162 types will tell you exactly the class of system it connects to. If the hole is EOL you must update the connection if you jump, or make a note of it in the comment if you don't jump (e.g. "C5 ? EOL"). After jumping the hole AND BOOKMARKING YOUR WAY BACK HOME edit the connection in the chain map with any details such as EOL, frigate sized, or reduced/crit. Also, update the signature comment with the class and name (e.g. "C5 Fubar").
 
 tl;dr
@@ -34,6 +34,6 @@ Here are some ways I have seen people be bad at using siggy. Don't do these thin
  * WRONG: In siggy you can fill up the chain map by jumping through wormholes without entering a single signature. By adding the details to the signature list we can see which signatures correspond to which wormholes. You get the chain map populated quicker if you skip entering things into siggy, but you have little to no information about the systems you found.
 
 #Final thoughts
-If this seems like a lot of bookkeeping and data entry, it is. But the better we can make siggy and our bookmarks look, the easier the corp will be able to move around the chain and deal with threats. Take some pride in your work and remember that you're not updating siggy for your own use; you're updating it for the entire corporation to use.
+If this seems like a lot of bookkeeping and data entry, it is. But the better we can make siggy and our bookmarks look the easier the corp will be able to move around the chain and deal with threats. Take some pride in your work and remember that you're not updating siggy for your own use; you're updating it for the entire corporation to use.
 
 7o
